@@ -2,3 +2,5 @@ torch
 torchvision
 opencv-python
 numpy
+# 仅训练 Notebook 需要；infer.py 只依赖 opencv-python 和 numpy
+jupyter
